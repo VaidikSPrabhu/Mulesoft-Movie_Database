@@ -1,7 +1,6 @@
 # Mulesoft-Movie_Database
-This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
+### This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
 
-###
 1. Created "movie_db" database with table name "MOVIES" and stored details of movies.
 2. File '_dbconnect.php' is used to connect to XAMPP server.
 3. File 'queries.php' is used to execute queries and display the output table in website.
@@ -10,7 +9,7 @@ This repository is created as a part of NJC's MuleSoft flagship Internship progr
 ### Table stored in the database
 ![Movies_Table](https://user-images.githubusercontent.com/72367112/136655781-85da4c94-2f8e-4433-be57-7d24ce99bf3a.jpg)
 
-#Queries
+# Queries
 ### *Retrieve all the attributes in table.
 ![All_Movie_Details](https://user-images.githubusercontent.com/72367112/136655806-e1ab6a4b-8e1a-4aa3-9fb7-b2ae3bc8ff12.jpg)
 
