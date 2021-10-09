@@ -2,9 +2,9 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [MOVIES Table](#Table stored in the database)
+* [MOVIES Table](#Table-stored-in-the-database)
 * [Queries](#Queries)
-* [*Retrieve all the attributes in table.](#1st Query)
+* [1st Query](#*Retrieve-all-the-attributes-in-table.)
 * [*Retrieve actor names.](#2nd Query)
 * [*Retrieve Actress names.](#3rd Query)
 * [*Retrieve Movie name and director name of movies with actor name as Darshan thoogudeepa.](#4th Query)
