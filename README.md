@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [Table-stored-in-the-database](#Table in database)
+* [table-stored-in-the-database](#Table in database)
 * [Queries](#Queries)
 * [*Retrieve all the attributes in table.](#1st Query)
 * [*Retrieve actor names.](#2nd Query)
