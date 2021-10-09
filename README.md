@@ -11,7 +11,7 @@
 * [5h Query](#Retrieve-details-of-movies-released-after-year-2020)
 * [6th Query](#Retrieve-details-of-movie-named-as-Free-Guy)
 * [7th Query](#Retrieve-the-number-of-movies-released-in-the-year-2019)
-* [8th Query](#Retrieve-movie-name-director-name-and-year-of-release-which-is-arranged-with-respect-to-director's-name-in-ascending-order)
+* [8th Query](#Retrieve-movie-name-director-name-and-year-of-release-which-is-arranged-with-respect-to-directors-name-in-ascending-order)
 * [9th Query](#Retrieve-details-of-movies-released-in-between-the-year-2015-and-2020-in-descending-order)
 * [10th Query](#Retrieve-movie-name-and-year-of-release-of-movies-which-are-not-released-in-the-year-2021-arranged-with-respect-to-year-of-release-in-ascending-order)
 
