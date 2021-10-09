@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [MOVIES Table](#Table-stored-in-the-database)
+* [MOVIES Table](#Table stored in the database)
 * [Queries](#Queries)
 * [*Retrieve all the attributes in table.](#1st Query)
 * [*Retrieve actor names.](#2nd Query)
