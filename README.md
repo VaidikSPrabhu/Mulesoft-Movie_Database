@@ -1,5 +1,22 @@
 # Mulesoft-Movie_Database
-#### This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
+
+## Table of contents
+* [Introduction](#Introduction)
+* [Table stored in the database](#Table in database)
+* [Queries](#Queries)
+* [*Retrieve all the attributes in table.](#1st Query)
+* [*Retrieve actor names.](#2nd Query)
+* [*Retrieve Actress names.](#3rd Query)
+* [*Retrieve Movie name and director name of movies with actor name as Darshan thoogudeepa.](#4th Query)
+* [*Retrieve details of movies released after year 2020.](#5th Query)
+* [*Retrieve details of movie named as Free Guy.](#6th Query)
+* [*Retrieve the number of movies released in the year 2019.](#7th Query)
+* [*Retrieve movie name, director name and year of release which is arranged with respect to director's name in ascending order.](#8th Query)
+* [*Retrieve details of movies released in between the year 2015 and 2020 in descending order.](#9th Query)
+* [*Retrieve movie name and year of release of movies which are not released in the year 2021, arranged with respect to year of release in ascending order.](#10th Query)
+
+## Introduction
+This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
 
 1. Created "movie_db" database with table name "MOVIES" and stored details of movies.
 2. File '_dbconnect.php' is used to connect to XAMPP server.
@@ -9,7 +26,7 @@
 ### Table stored in the database
 ![Movies_Table](https://user-images.githubusercontent.com/72367112/136655781-85da4c94-2f8e-4433-be57-7d24ce99bf3a.jpg)
 
-# Queries
+## Queries
 ### *Retrieve all the attributes in table.
 ![All_Movie_Details](https://user-images.githubusercontent.com/72367112/136655806-e1ab6a4b-8e1a-4aa3-9fb7-b2ae3bc8ff12.jpg)
 
