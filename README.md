@@ -11,9 +11,9 @@
 * [5h Query](#Retrieve-details-of-movies-released-after-year-2020)
 * [6th Query](#Retrieve-details-of-movie-named-as-Free-Guy)
 * [7th Query](#Retrieve-the-number-of-movies-released-in-the-year-2019)
-* [8th Query](#Retrieve-movie-name,-director-name-and-year-of-release-which-is-arranged-with-respect-to-director's-name-in-ascending-order)
+* [8th Query](#Retrieve-movie-name-director-name-and-year-of-release-which-is-arranged-with-respect-to-director's-name-in-ascending-order)
 * [9th Query](#Retrieve-details-of-movies-released-in-between-the-year-2015-and-2020-in-descending-order)
-* [10th Query](#Retrieve-movie-name-and-year-of-release-of-movies-which-are-not-released-in-the-year-2021,-arranged-with-respect-to-year-of-release-in-ascending-order)
+* [10th Query](#Retrieve-movie-name-and-year-of-release-of-movies-which-are-not-released-in-the-year-2021-arranged-with-respect-to-year-of-release-in-ascending-order)
 
 ## Introduction
 This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
