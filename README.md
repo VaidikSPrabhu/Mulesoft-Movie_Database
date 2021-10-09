@@ -23,7 +23,7 @@ This repository is created as a part of NJC's MuleSoft flagship Internship progr
 3. File 'queries.php' is used to execute queries and display the output table in website.
 4. File 'movies.sql' contains all the SQL queries used in this test.
 
-### Table stored in the database
+## Table stored in the database
 ![Movies_Table](https://user-images.githubusercontent.com/72367112/136655781-85da4c94-2f8e-4433-be57-7d24ce99bf3a.jpg)
 
 ## Queries
