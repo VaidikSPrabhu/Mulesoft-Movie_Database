@@ -4,16 +4,16 @@
 * [Introduction](#Introduction)
 * [MOVIES Table](#Table-stored-in-the-database)
 * [Queries](#Queries)
-* [1st Query](#*Retrieve-all-the-attributes-in-table.)
-* [*Retrieve actor names.](#2nd Query)
-* [*Retrieve Actress names.](#3rd Query)
-* [*Retrieve Movie name and director name of movies with actor name as Darshan thoogudeepa.](#4th Query)
-* [*Retrieve details of movies released after year 2020.](#5th Query)
-* [*Retrieve details of movie named as Free Guy.](#6th Query)
-* [*Retrieve the number of movies released in the year 2019.](#7th Query)
-* [*Retrieve movie name, director name and year of release which is arranged with respect to director's name in ascending order.](#8th Query)
-* [*Retrieve details of movies released in between the year 2015 and 2020 in descending order.](#9th Query)
-* [*Retrieve movie name and year of release of movies which are not released in the year 2021, arranged with respect to year of release in ascending order.](#10th Query)
+* [1st Query](#Retrieve-all-the-attributes-in-table.)
+* [2nd Query](#Retrieve-actor-names.)
+* [3rd Query](#Retrieve-actress-names.)
+* [4th Query](#Retrieve-Movie-name-and-director-name-of-movies-with-actor-name-as-Darshan-thoogudeepa.)
+* [5h Query](#Retrieve-details-of-movies-released-after-year-2020.)
+* [6th Query](#Retrieve-details-of-movie-named-as-Free-Guy.)
+* [7th Query](#Retrieve-the-number-of-movies-released-in-the-year-2019.)
+* [8th Query](#Retrieve-movie-name,-director-name-and-year-of-release-which-is-arranged-with-respect-to-director's-name-in-ascending-order.)
+* [9th Query](#Retrieve-details-of-movies-released-in-between-the-year-2015-and-2020-in-descending-order.)
+* [10th Query](#Retrieve-movie-name-and-year-of-release-of-movies-which-are-not-released-in-the-year-2021,-arranged-with-respect-to-year-of-release-in-ascending-order.)
 
 ## Introduction
 This repository is created as a part of NJC's MuleSoft flagship Internship program. It contains a movie table with name, actor, actress, director, year of release as its attributes. Data is retrieved from the table by using queries, with the help of SQL.
@@ -33,7 +33,7 @@ This repository is created as a part of NJC's MuleSoft flagship Internship progr
 ### *Retrieve actor names.
 ![Actor_Names](https://user-images.githubusercontent.com/72367112/136655844-a31cb324-5908-4887-862a-895bc9e459f9.jpg)
 
-### *Retrieve Actress names.
+### *Retrieve actress names.
 ![Actress_Names](https://user-images.githubusercontent.com/72367112/136655861-09abb74f-b142-44c5-a2e3-f00c0b29c8d6.jpg)
 
 ### *Retrieve Movie name and director name of movies with actor name as Darshan thoogudeepa.
